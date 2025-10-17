@@ -1,0 +1,15 @@
+C:\Github\LearningHouse\DSA\LearnDSA\bin\Debug\net9.0\LearnDSA.exe
+C:\Github\LearningHouse\DSA\LearnDSA\bin\Debug\net9.0\LearnDSA.deps.json
+C:\Github\LearningHouse\DSA\LearnDSA\bin\Debug\net9.0\LearnDSA.runtimeconfig.json
+C:\Github\LearningHouse\DSA\LearnDSA\bin\Debug\net9.0\LearnDSA.dll
+C:\Github\LearningHouse\DSA\LearnDSA\bin\Debug\net9.0\LearnDSA.pdb
+C:\Github\LearningHouse\DSA\LearnDSA\obj\Debug\net9.0\LearnDSA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\LearningHouse\DSA\LearnDSA\obj\Debug\net9.0\LearnDSA.AssemblyInfoInputs.cache
+C:\Github\LearningHouse\DSA\LearnDSA\obj\Debug\net9.0\LearnDSA.AssemblyInfo.cs
+C:\Github\LearningHouse\DSA\LearnDSA\obj\Debug\net9.0\LearnDSA.csproj.CoreCompileInputs.cache
+C:\Github\LearningHouse\DSA\LearnDSA\obj\Debug\net9.0\LearnDSA.sourcelink.json
+C:\Github\LearningHouse\DSA\LearnDSA\obj\Debug\net9.0\LearnDSA.dll
+C:\Github\LearningHouse\DSA\LearnDSA\obj\Debug\net9.0\refint\LearnDSA.dll
+C:\Github\LearningHouse\DSA\LearnDSA\obj\Debug\net9.0\LearnDSA.pdb
+C:\Github\LearningHouse\DSA\LearnDSA\obj\Debug\net9.0\LearnDSA.genruntimeconfig.cache
+C:\Github\LearningHouse\DSA\LearnDSA\obj\Debug\net9.0\ref\LearnDSA.dll
